@@ -9,7 +9,7 @@ import numpy as np
 from flurs.data.entity import User, Item, Event
 from flurs.recommender.mf import MFRecommender
 
-recommender = MFRecommender(k=40)
+recommender = MFRecommender(k=2)
 recommender.init_recommender()
 item_buffer = deque()
 
@@ -87,7 +87,7 @@ for _idx, doc in enumerate(docs):
             events.append(event)
 
 # split events data by percentage
-percentage = 0.9 # 90%
+percentage = 0.7 # 70%
 n = int(round(percentage * len(events)))
 train_events = events[:n]
 test_events = events[n:]
@@ -101,8 +101,8 @@ for e in train_events:
 for e in test_events:
     item_buffer.append(e.item.index)
 
-# do the training using n_epoch = 100
-batch_update(train_events, test_events, 100)
+# do the training using n_epoch = 99
+batch_update(train_events, test_events, 99)
 
 # batch test events are considered as a new observations;
 # the model is incrementally updated based on them before the incremental evaluation step
