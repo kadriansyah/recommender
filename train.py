@@ -1,5 +1,5 @@
-import sys
-sys.path.insert(0, '/Users/SUMOTEKHNOLOGISOLUSI/Projects/personal/python/flurs')
+# import sys
+# sys.path.insert(0, '/Users/SUMOTEKHNOLOGISOLUSI/Projects/personal/python/flurs')
 
 import pickle
 from os import listdir
