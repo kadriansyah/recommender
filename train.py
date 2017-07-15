@@ -87,7 +87,7 @@ for _idx, doc in enumerate(docs):
             events.append(event)
 
 # split events data by percentage
-percentage = 0.8 # 80%
+percentage = 0.9 # 90%
 n = int(round(percentage * len(events)))
 train_events = events[:n]
 test_events = events[n:]
@@ -110,23 +110,8 @@ for e in test_events:
     recommender.users[e.user.index]['known_items'].add(e.item.index)
     recommender.update_recommender(e)
 
-# # do the training
-# n_epoch = 1000
-# for epoch in range(n_epoch):
-#     # SGD requires us to shuffle events in each iteration
-#     # if n_epoch == 1
-#     #   => shuffle is not required because it is a deterministic training (i.e. matrix sketching)
-#     if n_epoch != 1:
-#         np.random.shuffle(events)
-#
-#     # train
-#     print('#################### training epoch: '+ str(epoch) +' ####################')
-#     for e in events:
-#         # print('user idx: '+ str(e.user.index) +' item idx: '+ str(e.item.index) +' value: '+ str(e.value))
-#         recommender.update_recommender(e, batch_train=True)
-
-# # save object
-# file_name = 'recommender.pickle'
-# file_object = open(file_name, 'wb')
-# pickle.dump(recommender, file_object)
-# file_object.close()
+# save object
+file_name = 'recommender.pickle'
+file_object = open(file_name, 'wb')
+pickle.dump(recommender, file_object)
+file_object.close()
