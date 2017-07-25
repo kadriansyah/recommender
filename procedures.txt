@@ -1,0 +1,376 @@
+Cek Asam Urat
+Cek Golongan Darah
+Cek Kolesterol
+Pemeriksaan Feses
+Uji Fungsi Hati
+Pemeriksaan Kimia Klinik
+Pemeriksaan Darah
+Patologi Anatomi
+Pemeriksaan Jamur
+Laparoskopi Kandungan
+Skrining TBC
+Serologi
+Tes Urin
+Tes Narkoba
+Tes VDRL
+Tes Widal
+Bius Lokal
+Bius Total
+Pain Management
+Operasi Hidung
+Facelift 
+USG Kehamilan
+Implan Payudara
+Perawatan Kerutan
+Anti-aging Treatment
+Rejuvination Treatment
+Gastric Banding
+Sedot Lemak
+Perawatan Rambut Rontok
+Peeling
+Electrocauterization
+Laser Hair Removal
+Laser Skin Resurfacing
+Laser Tattoo Removal
+Mikrodermabrasi Wajah
+Perawatan Luka Bakar
+Perawatan Pengencangan Kulit
+Home Visit
+Pemeriksaan Perut
+Infus Vitamin C
+Nebulizer
+Perawatan Luka
+Cryosurgery
+Transplantasi Stem Cell
+Pemeriksaan Endokrin
+Thyroid Biopsy
+Konsultasi Endokrin
+Diabetes Screening
+Pemeriksaan kelenjar Tiroid
+USG Tiroid
+Operasi Bypass Lambung
+Endoskopi
+Operasi Kantung Empedu
+Colonoscopy
+Kolostomi
+Endoscopic Ultrasound  EUS 
+Endoscopic Retrograde Cholangiopancreatography  ERCP 
+Esophagoscopy
+Biopsi Saluran Cerna
+Gastroskopi
+Biopsi Hati
+Operasi Kanker Hati
+Operasi Wasir
+Operasi Hernia
+Transplantasi Hati
+Angiografi
+CT Coronary Angiogram
+Ekokardiografi
+Elektrokardiogram  EKG 
+Stress test
+Rontgen Dada
+Operasi Jantung
+Pemasangan Alat Pacu Jantung
+Konsultasi Kehamilan
+Kuret
+Kursus Kehamilan dan Pasca Kelahiran
+Pemasangan dan Pelepasan IUD
+Operasi Caesar
+Melahirkan Normal
+Prosedur Kelahiran dengan Anestesi Spinal  ILA 
+Suntik KB
+Tes Kehamilan
+USG Kepala Bayi
+USG Transvaginal
+Bayi Tabung
+Induksi Ovulasi
+Pap Smear
+Biopsi Serviks
+Pijat Bayi
+Pijat Payudara
+Bank Stem Cell Bayi
+Konsultasi Laktasi
+Konsultasi Saraf Anak
+Fisioterapi Anak
+Terapi Bicara
+Mamografi
+Kemoterapi
+Radioterapi
+Bronkoskopi
+Biopsi Paru
+Konsultasi Paru-Paru dan Pernapasan
+Tes Fungsi Paru
+Torakosentesis
+Torakoskopi
+Cuci Darah
+Rehabilitasi Saraf
+USG Mammae
+Biopsi Payudara
+Kolposkopi
+Biopsi Endometrium
+Sterilisasi pada Wanita
+Histerektomi
+Histerektomi dengan Laparoskopi
+Aktino therapy
+Elektroterapi
+Fisioterapi
+Hidroterapi
+Terapi Okupasi
+Bedah Mulut
+Senam Hamil
+Konsultasi Gizi dan Pola Makan
+Bone Densitometry
+Vaksin HPV
+Uji Elektrolit
+CT Scan
+Hidrotubasi
+Histerosafingografi
+Medical Check Up
+NICU
+Operasi Usus Buntu
+Pemasangan Kawat Gigi
+PICU
+MRI Scan
+Rontgen Dada  Foto Thorax 
+Sunat
+USG Pembuluh Darah Leher Carotis
+USG Perut
+USG Testis
+Aneursym Coiling
+Brain Angiography  DSA 
+Diagnosa Disfungsi Ereksi
+Embolisasi Aneurisma
+Operasi Prostat
+Pemeriksaan Jantung
+Vaksin Orang Dewasa
+Cabut Gigi 
+Elektrofisiologi Jantung
+Aspirasi jarum halus untuk pemeriksaan sitologi 
+Gigi Palsu
+Terapi Imun
+Pemeriksaan Menopause
+Operasi Kelopak Mata
+Operasi Pengecilan Payudara
+Pemasangan Crown Gigi
+Pemeriksaan dan Konsultasi Mata
+Pemeriksaan Payudara
+Pemutihan Gigi
+Removal of Implant
+Perawatan Akar Gigi
+Skin Test
+Sleep Study
+Tambal Gigi
+Implan Gigi
+Tummy Tuck
+Uji Fungsi Paru-Paru
+Pembuahan dalam Rahim
+Fertility Pills and Timed Intercourse
+Terapi Pengganti Hormon
+USG Panggul
+Tes HIV
+Tumor Marker
+Bedah Kosmetik
+Pengobatan Melasma
+Pengobatan Lentigo
+Operasi Tulang Wajah
+Operasi Lesung Pipi
+Operasi Tarik Dahi
+Operasi Dagu
+Lumbar Puncture
+Marfan Syndrome Treatment
+Komposisi Tubuh
+Hereditary Spastic Paraplegia  HSP  Treatment
+Suntik Insulin
+Fibroscan
+Ambulatory BP
+Ablation Therapy
+Konsultasi Alergi Anak
+Konsultasi Pernapasan Anak
+Konsultasi Psikologi Anak
+Rontgen Gigi
+Fluoroscopy
+Operasi Usus Buntu dengan Laparoskopi
+Operasi Batu Empedu dengan Laparoskopi
+Operasi Bypass Jantung
+Penggantian Katup Jantung
+USG Doppler
+Trans Arterial Chemo Infusion  TACI 
+Konsultasi Kanker
+Skrining Kanker
+Bedah Kanker
+Transplantasi Sumsum Tulang
+Endovaskuler
+Elektroensefalogram
+Pemeriksaan Panggul
+Miomektomi
+Operasi Vagina
+Operasi Pengecilan Payudara
+Rekonstruksi telinga
+Mesoterapi
+Konsultasi Diabetes
+Kateterisasi Jantung
+Spinal Injection Therapy
+Natural Cycle Monitoring
+Inseminasi Buatan
+Pemeriksaan HPV DNA
+Radiologi Pediatrik
+USG Ginjal dan Saluran Kemih
+USG Kepala
+USG Panggul
+Vaksin Anak
+Bedah Anak
+Inkubator
+Tambal Gigi
+Tes Pendengaran
+Radiologi THT
+ESWL
+Operasi Katarak
+Bedah Refraktif Untuk Mata
+LASIK
+Elektromiografi
+Tes Prenatal
+Bedah THT
+Korpus Alienum THT
+Operasi Amandel
+Operasi Implan Koklea
+Terapi Oksigen Hiperbarik
+Pemeriksaan ROM  Range of Motion 
+Termoterapi
+Terapi Hormon Pertumbuhan
+Terapi Magnet
+Bedah Umum
+Foto Rontgen Kolon
+Pemeriksaan Sperma
+Tes Alergi
+Suntik tetanus
+Klinik HIV
+Vasektomi
+Ureterorenoskopi
+Urinalisis
+TUNA  Transurethreal Needle Ablation 
+RPG  Retrograde Pyelografi 
+Biopsi Prostat
+Pemeriksaan PSA  prostat spesifik antigen 
+Urologi Anak
+Lithoclast
+Pengobatan Laser untuk Pembesaran Prostat
+Endourologi
+Rehabilitasi pasca stroke
+USG saluran kencing
+Bedah Salurah Kemih
+Senam Tai Chi
+Senam Yoga
+Perawatan kulit
+Akupunktur
+Laser Argon
+Laser YAG
+Operasi Saluran Air Mata
+Tonometri
+Operasi Pterigium
+Reparasi Otot Mata
+Operasi Mata
+Debridement dengan Artroskopi
+Bedah Ligamen Lutut
+Arthroskopi
+Artrosplasti
+Operasi Ortognatic
+Veneer Gigi
+Neuroendoskopi
+ICU
+Tindakan THT
+Platelet Rich Plasma  PRP  Injection 
+Mastektomi
+Penjahitan luka
+Terapi Manual
+Medical Gymnastics 
+Rehabilitasi tulang dan sendi
+Pemeriksaan dan Konsultasi Perawatan Gigi
+Pembersihan Gigi
+Scaling Gigi
+Pemeriksaan Uroflowmetri
+Tes Kebugaran
+Senam Nifas
+Terapi Akupuntur ASI
+Fungsi Ginjal
+Skrining Hepatitis
+Bedah Saraf
+Brachytherapy
+Bedah Saluran Cerna
+Mikrodisektomi untuk Saraf Terjepit
+Polypectomy
+Testing
+pemeriksaan medis kejiwaan
+Dental Bridge
+Pemeriksaan Medis
+Facial
+Sigmoidoskopi
+Profil Lemak
+C-Arm
+Kosmetik gigi
+Coronary angioplasty
+USG Prostat
+Sistektomi
+Collagen Induction Therapy
+Thermage
+Perawatan tali pusat
+EMS Master Light
+IPL  Intense Pulse Light 
+Pengangkatan kutil
+Aptos thread lift
+Cavitron ultrasonic surgical aspirator  CUSA 
+Operasi tiroid
+Cutting of Abdominal Adhesion
+Colon Polyp Detection & Removal
+Removal of the spleen
+USG Appendix
+Pengobatan batu empedu
+Esophageal testing
+Directional Atherectomy
+Lab elektrofisiologi jantung
+Rotablation
+Transplantasi ginjal
+PCNL  Percutaneous Nephrolithotomy 
+Continuous renal replacement therapy
+Peritoneal dialysis
+Apheresis
+Testing for Adrenal Tumors
+Biopsy-guided ultrasound
+Aspirasi sumsum tulang
+Positive airway pressure
+Transfusi Darah
+Teknik bedah stereotaktik
+Brain SPECT
+Sonolysis
+Transplantasi saraf
+RTMS  Repetitive Trans cranial Magnetic Stimulation 
+Pemulihan pasca tindakan USG untuk sumbatan pada payudara
+Nasal & endoscopic sinus surgery
+Endoscopic nasal surgery
+Tympanoplasty
+MMT  Manual Muscle Testing 
+Kinergetics
+Myofascial Release  MFR  
+Trans Arterial Embolization  TAE 
+Pemeriksaan radiologi
+Cephalometry
+Airflo prep
+Restorasi Gigi
+Micro Endoscopic Disectomy  MED 
+Retinal tear and detachment services
+Green light laser therapy
+Urodynamics
+Transrectal ultrasound
+Pengangkatan Kista Epididimis
+Transurethral Resection  TUR  
+Urologic reconstruction
+Piezo Master Surgery
+Koreksi Cacat Lahir
+Koreksi Cacat karena Kecelakaan
+Breast Cancer Surgery
+Colorectal Cancer Surgery
+Complex Abdominal Wall Muscle Repairs
+Cath Lab
+Pemasangan Stent Jantung
+C-Arm
+TCCD  Transcranial Color Doppler    TCD  Transcranial Doppler 
+Linear Accelerator  LINAC 
